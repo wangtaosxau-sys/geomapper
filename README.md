@@ -103,4 +103,4 @@ src-tauri/     Tauri 工程骨架
 
 ## License
 
-当前仓库未单独附带许可证文件；如果准备公开分发，建议补充 `LICENSE`。
+本项目采用 [MIT License](./LICENSE)。

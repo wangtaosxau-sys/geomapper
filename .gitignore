@@ -11,6 +11,12 @@ node_modules
 dist
 dist-ssr
 *.local
+release/
+backup_temp/
+launcher/
+src-tauri/target/
+*.zip
+备份*/
 
 # Editor directories and files
 .vscode/*

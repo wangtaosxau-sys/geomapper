@@ -1,0 +1,5 @@
+{
+  "name": "GeoMapper Pro",
+  "description": "A high-performance, client-side batch geocoding tool using Amap (Gaode) API. Features multi-key rotation, intelligent retry logic, real-time analytics, and CSV export capabilities.",
+  "requestFramePermissions": []
+}

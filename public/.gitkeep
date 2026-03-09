@@ -1,0 +1,6 @@
+# 此文件夹用于存放静态资源
+# 请将以下文件放入此文件夹：
+# - wechat-pay.png (微信赞赏码)
+# - alipay.png (支付宝赞赏码)
+# - icon.ico (应用图标，256x256 像素，用于 Windows 打包)
+# - icon.png (应用图标 PNG 版本)
